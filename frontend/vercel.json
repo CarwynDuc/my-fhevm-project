@@ -1,0 +1,21 @@
+{
+  "name": "sovereign-nft",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "framework": "vite",
+  "installCommand": "npm install",
+  "env": {
+    "VITE_NFT_ADDRESS": "0x27D2aB8048A5b7f3d4b8416C231f33366d7c663c",
+    "VITE_CHAIN_ID": "11155111",
+    "VITE_SEPOLIA_RPC": "https://ethereum-sepolia-rpc.publicnode.com",
+    "VITE_FHE_ACL_ADDRESS": "0x687820221192C5B662b25367F70076A37bc79b6c",
+    "VITE_FHE_KMS_ADDRESS": "0x1364cBBf2cDF5032C47d8226a6f6FBD2AFCDacAC",
+    "VITE_FHE_INPUT_VERIFIER_ADDRESS": "0xbc91f3daD1A5F19F8390c400196e58073B6a0BC4"
+  },
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "version": "0.9.1",
+  "network": "sepolia",
+  "deployer": "0x9c4A63768d7808935D4Ca9961158a6a1dc79C89d",
+  "timestamp": "2025-12-26T05:44:38.963Z",
+  "contracts": {
+    "VeilMintSimple": "0x3DA0E8F54D30c119522F0e96e23c36fD0dD4A900",
+    "FHEBlindNFT": "0x27D2aB8048A5b7f3d4b8416C231f33366d7c663c",
+    "VeilMintBlindNFT": "0x701499B8DcDc40bF66e0D1203a9776fD06B770ec",
+    "VeilMintGalleryCoordinator": "0xa5EE4D939f04F1BcbFe0F108496b983850143009"
+  }
+}
