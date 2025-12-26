@@ -9,6 +9,16 @@ SOVEREIGN is the ultimate NFT platform that leverages Zama's Fully Homomorphic E
 [![fhEVM](https://img.shields.io/badge/fhEVM-0.9.1-purple)](https://docs.zama.ai/fhevm)
 [![Hardhat](https://img.shields.io/badge/Hardhat-2.22-yellow)](https://hardhat.org/)
 
+## 🎥 Demo Video
+
+[![SOVEREIGN Demo](https://img.youtube.com/vi/nYGNUf2RdEI/maxresdefault.jpg)](https://www.youtube.com/watch?v=nYGNUf2RdEI)
+
+**Watch the full demo**: [https://www.youtube.com/watch?v=nYGNUf2RdEI](https://www.youtube.com/watch?v=nYGNUf2RdEI)
+
+See SOVEREIGN in action - from wallet connection to minting encrypted NFTs on Sepolia testnet with full FHE privacy guarantees.
+
+---
+
 ## Overview
 
 ### The Problem
@@ -412,6 +422,7 @@ The FHEBlindNFT contract has been configured with:
 ## Resources
 
 - **Live Demo**: [https://sovereign-nft.vercel.app](https://sovereign-nft.vercel.app)
+- **Video Demo**: [https://www.youtube.com/watch?v=nYGNUf2RdEI](https://www.youtube.com/watch?v=nYGNUf2RdEI)
 - **GitHub Repository**: [https://github.com/CarwynDuc/my-fhevm-project](https://github.com/CarwynDuc/my-fhevm-project)
 - **Zama fhEVM Docs**: [https://docs.zama.ai/fhevm](https://docs.zama.ai/fhevm)
 - **fhEVM Solidity Library**: [https://github.com/zama-ai/fhevm](https://github.com/zama-ai/fhevm)
